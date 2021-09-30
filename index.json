@@ -96,5 +96,12 @@
         "description":"By default, inscribes an axis-aligned oval into its layout dimensions and prevents its child from painting outside that oval, but the size and location of the clip oval can be customized using a custom clipper.",
         "youtube link":"https://youtu.be/vzWWDO6whIM",
         "documentation page":"https://api.flutter.dev/flutter/widgets/ClipOval-class.html"
+   },
+     {
+        "id":15,
+        "name" : "ConstrainedBox",
+        "description":"is a built-in widget available in Flutter SDK. It is usually used to add limitations in size to the child widgets. It allows developers to add flexibility with respect to height and width in a child widget.",
+        "youtube link":"https://youtu.be/d-wflQtMgtQ",
+        "documentation page":"https://flutter.dev/docs/development/ui/layout/box-constraints"
    }
 ]
